@@ -1,12 +1,6 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 3c041fe1738ba2bde15a4dc9097ec384_4d8d9ebd5be511f19299525400d9a7a1
-    ReservedCode1: KdTg0IUj3BVZkuDdieOFn2Gs7lxIcPVkzVWwpF5BnFclbb9zNBcXHC85nkYSVfWZ0Bi2NMA8FCQRwHvKz+PmYsxTOJwT/1hoXwmiCkEEaxcRyHiedy5vv/EJcqPDX7sNQcnZoboF5AAO+i8RENClzsXVF1P17vv+uzPAUU/P4Mh71zMSS+ZvHX0D4/s=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 3c041fe1738ba2bde15a4dc9097ec384_4d8d9ebd5be511f19299525400d9a7a1
-    ReservedCode2: KdTg0IUj3BVZkuDdieOFn2Gs7lxIcPVkzVWwpF5BnFclbb9zNBcXHC85nkYSVfWZ0Bi2NMA8FCQRwHvKz+PmYsxTOJwT/1hoXwmiCkEEaxcRyHiedy5vv/EJcqPDX7sNQcnZoboF5AAO+i8RENClzsXVF1P17vv+uzPAUU/P4Mh71zMSS+ZvHX0D4/s=
+layout: default
+title: 关于我
 ---
 
 
@@ -41,4 +35,4 @@ AIGC:
 ---
 
 *"路漫漫其修远兮，吾将上下而求索"*
-*（内容由AI生成，仅供参考）*
+

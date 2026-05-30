@@ -1,12 +1,6 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 3c041fe1738ba2bde15a4dc9097ec384_4e038a7f5be511f19299525400d9a7a1
-    ReservedCode1: k+TL6f/yymSntwRO0Bruo4EUk/3xfH+PYMW0hMJ6a4snVNNgnLGao0AATB8ZTMGnhQ8FE3mFFoDZO3cHfXvvZM27i/yIyKn/ujCQMxBmi7o4xh/Yu2xOcNWHNF8+q0tK0mACbP4Y1i/U6oWKVTm6Z7IbNMJ/7V1enq8pzT+ey0dwWteqOlLwUGb83/o=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 3c041fe1738ba2bde15a4dc9097ec384_4e038a7f5be511f19299525400d9a7a1
-    ReservedCode2: k+TL6f/yymSntwRO0Bruo4EUk/3xfH+PYMW0hMJ6a4snVNNgnLGao0AATB8ZTMGnhQ8FE3mFFoDZO3cHfXvvZM27i/yIyKn/ujCQMxBmi7o4xh/Yu2xOcNWHNF8+q0tK0mACbP4Y1i/U6oWKVTm6Z7IbNMJ/7V1enq8pzT+ey0dwWteqOlLwUGb83/o=
+layout: default
+title: 博客文章
 ---
 
 
@@ -33,4 +27,4 @@ AIGC:
   text-decoration: none;
 }
 </style>
-*（内容由AI生成，仅供参考）*
+
