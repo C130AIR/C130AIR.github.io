@@ -1,0 +1,28 @@
+<footer class="site-footer">
+  <div class="footer-content">
+    <p>🛩️ 代码和铁轨一样，连接着世界。</p>
+    <div class="social-links">
+      <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+      <a href="mailto:{{ site.email }}">Email</a>
+    </div>
+    <p class="copyright">&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. Powered by Jekyll & GitHub Pages.</p>
+  </div>
+</footer>
+
+<style>
+.site-footer {
+  background: #1a1a2e;
+  color: #fff;
+  padding: 2rem 0;
+  margin-top: 3rem;
+  text-align: center;
+}
+.social-links {
+  margin: 1rem 0;
+}
+.social-links a {
+  color: #e94560;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+</style>

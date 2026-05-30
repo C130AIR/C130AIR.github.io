@@ -1,0 +1,37 @@
+title: C130AIR 的飞行日志
+description: >-
+  一个住在海边的初中生，热爱飞行、铁路和 F1，
+  正在探索代码世界和黑苹果的奥秘。
+baseurl: ""
+url: "https://C130AIR.github.io"
+github_username: C130AIR
+email: kjinlin0917@iCloud.com
+
+# Giscus 评论配置 - 请替换为你自己的参数
+giscus:
+  repo: C130AIR/C130AIR.github.io
+  repo_id: "R_kgDO..."
+  category: "Announcements"
+  category_id: "DIC_kwDO..."
+  mapping: "pathname"
+  strict: "0"
+  reactions_enabled: "1"
+  emit_metadata: "0"
+  input_position: "bottom"
+  theme: "preferred_color_scheme"
+  lang: "zh-CN"
+
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+
+author:
+  name: 柯梓轩 (C130AIR)
+  bio: 汕头初中生 · 航空爱好者 · F1 车迷 · 黑苹果新手
+  location: 广东汕头
+
+social:
+  github: C130AIR
+  email: kjinlin0917@iCloud.com
+（内容由AI生成，仅供参考）
