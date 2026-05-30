@@ -10,9 +10,9 @@ email: kjinlin0917@iCloud.com
 # Giscus 评论配置 - 请替换为你自己的参数
 giscus:
   repo: C130AIR/C130AIR.github.io
-  repo_id: "R_kgDO..."
+  repo_id: "R_kgDOSr-Enw"
   category: "Announcements"
-  category_id: "DIC_kwDO..."
+  category_id: "DIC_kwDOSr-En84C-IZ7"
   mapping: "pathname"
   strict: "0"
   reactions_enabled: "1"
