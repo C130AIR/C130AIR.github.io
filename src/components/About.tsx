@@ -83,7 +83,7 @@ export default function About() {
         transition={{ duration: 0.55 }}
       >
         <Card>
-          <SectionTitle ja="アバウト" en="About Me" />
+          <SectionTitle ja="À propos" en="About Me" />
           <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
             {aboutText.map((t, i) => (
               <motion.p
@@ -109,7 +109,7 @@ export default function About() {
         style={{ marginTop: '1.1rem' }}
       >
         <Card>
-          <SectionTitle ja="スキル" en="Technical Stack" />
+          <SectionTitle ja="Compétences" en="Technical Stack" />
           <div id="skills" style={{ display: 'flex', flexWrap: 'wrap', gap: '0.45rem' }}>
             {stack.map((name, i) => (
               <motion.span

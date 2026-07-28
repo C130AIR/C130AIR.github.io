@@ -89,7 +89,7 @@ export default function Banner() {
             marginBottom: '0.35rem',
           }}
         >
-          ポートフォリオ
+          Portfolio
         </motion.p>
         <motion.h1
           initial={{ opacity: 0, y: 14 }}

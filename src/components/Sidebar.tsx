@@ -14,7 +14,7 @@ const socialLinks = [
   { icon: Github, href: 'https://github.com/dortania', label: 'OCLP GitHub' },
   { icon: Car, href: 'https://www.redbull.com/cn-zh/', label: 'Red Bull' },
   { icon: X, href: 'https://x.com/leclerr8vg', label: 'X' },
-  { icon: Mail, href: 'mailto:kazixuan@example.com', label: 'Email' },
+  { icon: Mail, href: 'mailto:kjinlin0917@iCloud.com', label: 'Email' },
   { icon: BookOpen, href: 'https://kzx.icu', label: 'Blog' },
 ]
 

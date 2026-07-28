@@ -21,7 +21,7 @@ export default function Contact() {
         transition={{ duration: 0.6, ease: 'easeOut' }}
       >
         <Card>
-          <SectionTitle ja="コンタクト" en="Get In Touch" />
+          <SectionTitle ja="Contact" en="Get In Touch" />
           <div style={{ display: 'flex', flexDirection: 'column', gap: '0.6rem' }}>
             {links.map(({ icon: Icon, label, sub, href }, i) => (
               <motion.a

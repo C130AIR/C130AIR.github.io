@@ -30,7 +30,7 @@ export default function Projects() {
         transition={{ duration: 0.6, ease: 'easeOut' }}
       >
         <Card>
-          <SectionTitle ja="プロジェクト" en="Projects" />
+          <SectionTitle ja="Projets" en="Projects" />
           <div style={{ display: 'flex', flexDirection: 'column', gap: '0.65rem' }}>
             {projects.map((p, i) => (
               <motion.a

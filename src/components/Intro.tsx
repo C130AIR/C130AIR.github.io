@@ -79,7 +79,7 @@ export default function Intro({ onDone }: { onDone: () => void }) {
               opacity: 0.85,
             }}
           >
-            ようこそ
+            Bienvenue
           </motion.p>
 
           <motion.div
