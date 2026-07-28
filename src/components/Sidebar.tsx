@@ -15,7 +15,7 @@ const socialLinks = [
   { icon: Car, href: 'https://www.redbull.com/cn-zh/', label: 'Red Bull' },
   { icon: X, href: 'https://x.com/leclerr8vg', label: 'X' },
   { icon: Mail, href: 'mailto:kjinlin0917@iCloud.com', label: 'Email' },
-  { icon: BookOpen, href: 'https://C130AIR.github.io', label: 'Blog' },
+  { icon: BookOpen, href: 'https://c130air.github.io/C130AIR-Blog/', label: 'Blog' },
 ]
 
 function useIsMobile() {
