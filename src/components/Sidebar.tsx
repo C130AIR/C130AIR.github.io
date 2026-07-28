@@ -11,11 +11,11 @@ const navItems = [
 ]
 
 const socialLinks = [
-  { icon: Github, href: 'https://github.com/dortania', label: 'OCLP GitHub' },
+  { icon: Github, href: 'https://github.com/C130AIR', label: 'GitHub' },
   { icon: Car, href: 'https://www.redbull.com/cn-zh/', label: 'Red Bull' },
   { icon: X, href: 'https://x.com/leclerr8vg', label: 'X' },
   { icon: Mail, href: 'mailto:kjinlin0917@iCloud.com', label: 'Email' },
-  { icon: BookOpen, href: 'https://kzx.icu', label: 'Blog' },
+  { icon: BookOpen, href: 'https://C130AIR.github.io', label: 'Blog' },
 ]
 
 function useIsMobile() {

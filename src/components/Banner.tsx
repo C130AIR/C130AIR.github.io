@@ -118,7 +118,7 @@ export default function Banner() {
             letterSpacing: '0.08em',
           }}
         >
-          F4 Champion · Red Bull Junior · OCLP Core Dev
+          F4 Champion · Red Bull Junior
         </motion.p>
       </motion.div>
 

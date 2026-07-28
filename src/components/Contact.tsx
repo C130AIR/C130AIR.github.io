@@ -4,7 +4,7 @@ import { Github, Mail, X } from 'lucide-react'
 import { SectionTitle, Card } from './About'
 
 const links = [
-  { icon: Github, label: 'OCLP GitHub', sub: 'OpenCore Legacy Patcher', href: 'https://github.com/dortania/OpenCore-Legacy-Patcher' },
+  { icon: Github, label: 'GitHub', sub: 'C130AIR', href: 'https://github.com/C130AIR' },
   { icon: Mail, label: 'Email', sub: 'kjinlin0917@icloud.com', href: 'mailto:kjinlin0917@icloud.com' },
   { icon: X, label: 'X', sub: '@leclerr8vg', href: 'https://x.com/leclerr8vg' },
 ]

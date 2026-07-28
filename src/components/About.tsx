@@ -2,13 +2,13 @@ import { useRef } from 'react'
 import { motion, useInView } from 'framer-motion'
 
 const aboutText = [
-  "A 13-year-old developer and F4 race car driver. Red Bull Junior Team's youngest signed talent — I build software that pushes boundaries, from UEFI bootloaders to real-time telemetry systems.",
-  "Core contributor to OpenCore Legacy Patcher (OCLP), the de facto standard for running modern macOS on unsupported hardware. I live and breathe low-level systems: Swift, Objective-C, C++, Rust — whatever gets the job done.",
-  "When I'm not on the track or deep in a kernel panic, I maintain open-source projects that bridge macOS internals with the Hackintosh community.",
+  "A 13-year-old developer and F4 race car driver. Red Bull Junior Team's youngest signed talent — I build software that pushes boundaries, from real-time telemetry systems to high-performance applications.",
+  "I live and breathe low-level systems programming: Swift, Objective-C, C++, Rust — whatever gets the job done. I build high-performance software that pushes the boundaries of what's possible.",
+  "When I'm not on the track, I contribute to open-source projects and explore the intersection of software engineering and motorsport data analytics.",
 ]
 
 const stack = [
-  'Swift', 'Objective-C', 'C++', 'Rust', 'Python', 'Shell', 'UEFI', 'OpenCore', 'ACPI', 'Metal', 'CUDA', 'FFmpeg'
+  'Swift', 'Objective-C', 'C++', 'Rust', 'Python', 'Shell', 'Metal', 'CUDA', 'FFmpeg'
 ]
 
 export function Card({ children, style }: { children: React.ReactNode; style?: React.CSSProperties }) {
