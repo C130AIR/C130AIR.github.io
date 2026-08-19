@@ -1,12 +1,13 @@
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { Github, Mail, BookOpen, Home, FolderGit2, User, Wrench, MessageCircle, Menu, X, Car } from 'lucide-react'
+import { Github, Mail, BookOpen, Home, FolderGit2, User, Wrench, MessageCircle, Menu, X, Car, Heart } from 'lucide-react'
 
 const navItems = [
   { icon: Home, label: 'Home', href: '#home' },
   { icon: User, label: 'About', href: '#about' },
   { icon: Wrench, label: 'Skills', href: '#skills' },
   { icon: FolderGit2, label: 'Projects', href: '#projects' },
+  { icon: Heart, label: 'Sponsor', href: '#sponsor' },
   { icon: MessageCircle, label: 'Contact', href: '#contact' },
 ]
 

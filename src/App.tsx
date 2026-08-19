@@ -5,6 +5,7 @@ import Banner from './components/Banner'
 import About from './components/About'
 import Projects from './components/Projects'
 import Contact from './components/Contact'
+import Sponsor from './components/Sponsor'
 
 export default function App() {
   const [ready, setReady] = useState(false)
@@ -59,6 +60,7 @@ export default function App() {
                 <About />
                 <Projects />
                 <Contact />
+                <Sponsor />
 
                 <div style={{ textAlign: 'center', marginTop: '2rem', marginBottom: '2rem' }}>
                   <button
