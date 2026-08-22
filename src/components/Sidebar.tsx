@@ -14,7 +14,7 @@ const navItems = [
 const socialLinks = [
   { icon: Github, href: 'https://github.com/C130AIR', label: 'GitHub' },
   { icon: Car, href: 'https://www.redbull.com/cn-zh/', label: 'Red Bull' },
-  { icon: X, href: 'https://x.com/leclerr8vg', label: 'X' },
+  { icon: X, href: 'https://x.com/ImJustC130AIR', label: 'X' },
   { icon: Mail, href: 'mailto:kjinlin0917@iCloud.com', label: 'Email' },
   { icon: BookOpen, href: 'https://c130air.github.io/C130AIR-Blog/', label: 'Blog' },
 ]

@@ -6,7 +6,7 @@ import { SectionTitle, Card } from './About'
 const links = [
   { icon: Github, label: 'GitHub', sub: 'C130AIR', href: 'https://github.com/C130AIR' },
   { icon: Mail, label: 'Email', sub: 'kjinlin0917@icloud.com', href: 'mailto:kjinlin0917@icloud.com' },
-  { icon: X, label: 'X', sub: '@leclerr8vg', href: 'https://x.com/leclerr8vg' },
+  { icon: X, label: 'X', sub: '@ImJustC130AIR', href: 'https://x.com/ImJustC130AIR' },
 ]
 
 export default function Contact() {
