@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { Github, Mail, BookOpen, Home, FolderGit2, User, Wrench, MessageCircle, Menu, X, Car, Heart } from 'lucide-react'
+import { Github, Mail, BookOpen, Home, FolderGit2, User, Wrench, MessageCircle, Menu, X, Car, Heart, Globe, AudioLines } from 'lucide-react'
 
 const navItems = [
   { icon: Home, label: 'Home', href: '#home' },
@@ -8,6 +8,7 @@ const navItems = [
   { icon: Wrench, label: 'Skills', href: '#skills' },
   { icon: FolderGit2, label: 'Projects', href: '#projects' },
   { icon: Heart, label: 'Sponsor', href: '#sponsor' },
+  { icon: AudioLines, label: 'Echo', href: '#echo' },
   { icon: MessageCircle, label: 'Contact', href: '#contact' },
 ]
 
@@ -17,6 +18,7 @@ const socialLinks = [
   { icon: X, href: 'https://x.com/ImJustC130AIR', label: 'X' },
   { icon: Mail, href: 'mailto:kjinlin0917@iCloud.com', label: 'Email' },
   { icon: BookOpen, href: 'https://c130air.github.io/C130AIR-Blog/', label: 'Blog' },
+  { icon: Globe, href: 'https://c130air.github.io/C130AIR-Blog-EN/', label: 'EN Blog' },
 ]
 
 function useIsMobile() {
