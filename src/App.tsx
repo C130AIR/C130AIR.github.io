@@ -5,7 +5,6 @@ import Banner from './components/Banner'
 import About from './components/About'
 import Projects from './components/Projects'
 import Contact from './components/Contact'
-import Sponsor from './components/Sponsor'
 import EchoCave from './components/EchoCave'
 
 export default function App() {
@@ -61,7 +60,6 @@ export default function App() {
                 <About />
                 <Projects />
                 <Contact />
-                <Sponsor />
                 <EchoCave />
 
                 <div style={{ textAlign: 'center', marginTop: '2rem', marginBottom: '2rem' }}>
