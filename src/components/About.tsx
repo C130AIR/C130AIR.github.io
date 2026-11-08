@@ -2,9 +2,9 @@ import { useRef } from 'react'
 import { motion, useInView } from 'framer-motion'
 
 const aboutText = [
-  "A 13-year-old developer and F4 race car driver. Red Bull Junior Team's youngest signed talent — I build software that pushes boundaries, from real-time telemetry systems to high-performance applications.",
+  "A 14-year-old junior developer and aerial photography enthusiast. I build software that pushes boundaries, from real-time telemetry systems to high-performance applications.",
   "I live and breathe low-level systems programming: Swift, Objective-C, C++, Rust — whatever gets the job done. I build high-performance software that pushes the boundaries of what's possible.",
-  "When I'm not on the track, I contribute to open-source projects and explore the intersection of software engineering and motorsport data analytics.",
+  
 ]
 
 const stack = [

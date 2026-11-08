@@ -118,7 +118,7 @@ export default function Banner() {
             letterSpacing: '0.08em',
           }}
         >
-          F4 Champion · Red Bull Junior
+          developer · aerial photography enthusiast
         </motion.p>
       </motion.div>
 

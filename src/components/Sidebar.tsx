@@ -61,7 +61,7 @@ function SidebarContent({ onNav }: { onNav?: () => void }) {
           fontWeight: 500,
           opacity: 0.85,
           letterSpacing: '0.04em',
-        }}>F4 Champion · Red Bull Junior</div>
+        }}>developer · aerial photography enthusiast</div>
       </div>
 
       <nav style={{ flex: 1 }}>

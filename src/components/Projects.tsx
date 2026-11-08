@@ -7,15 +7,9 @@ const projects = [
   {
     name: 'F1-DRS',
     desc: 'Drag Reduction System simulation & analysis tool for Formula 1 strategy optimization. Lap-time delta prediction with DRS-train modeling and overtake probability heatmaps.',
-    tags: ['Python', 'FastF1', 'NumPy'],
-    github: 'https://github.com/grid-position-one/F1-DRS',
-  },
-  {
-    name: 'paddock-club',
-    desc: 'F1 paddock insider platform — live timing data aggregation, driver radio transcripts, and race weekend dashboard for the ultimate trackside experience.',
-    tags: ['TypeScript', 'React', 'Node.js'],
-    github: 'https://github.com/C130AIR/paddock-club',
-  },
+    tags: ['HTML'],
+    github: 'https://github.com/F1-DRS-Project/F1-DRS',
+  }
 ]
 
 export default function Projects() {
